@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="one">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/Poker2/poker/one/testing.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test/Poker2/poker/one/testing 2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
